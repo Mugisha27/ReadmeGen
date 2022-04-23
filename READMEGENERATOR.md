@@ -22,6 +22,7 @@ Through the console, logging in the index.js file in the terminal using node and
     
 ## LICENSE
 [![License: MIT license](https://img.shields.io/badge/License-MIT license-blue.svg)](https://opensource.org/licenses/MIT license)
+![licnse](img//Users/chrismugisha/Desktop/ReadmeGen/img/license.png)
 The license included for the project is under MIT license
 
 ## CHALLENGES FACED
