@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "inquirer": "^8.2.2"
+  },
+  "name": "readmegen",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mugisha27/ReadmeGen.git"
+  },
+  "author": "chris",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mugisha27/ReadmeGen/issues"
+  },
+  "homepage": "https://github.com/Mugisha27/ReadmeGen#readme",
+  "description": ""
+}
