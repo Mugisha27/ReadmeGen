@@ -20,7 +20,7 @@ Through the console, logging in the index.js file in the terminal using node and
 ## USAGE
 Will be used for my future development projects
 Through the console, logging in the index.js file in the terminal using node and answering to each prompted question to the corresponding answer.
-![Usage!](img/Users/chrismugisha/Desktop/ReadmeGen/img/license.png)
+![Usage!](img/img/license.png)
     
 ## LICENSE
 [![License: MIT license](https://img.shields.io/badge/License-MIT license-blue.svg)](https://opensource.org/licenses/MIT license)
